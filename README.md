@@ -3,5 +3,5 @@
 
 ## install方法
 ```zsh
-npm i @yoshimatsu567/return-length
+npm install @yoshimatsu567/return-length@0.0.1
 ```
